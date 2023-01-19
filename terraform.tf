@@ -4,7 +4,7 @@ terraform {
     organization = "cheturi"
 
     workspaces {
-      name = "Terraform_work"
+      name = "Terraform-1"
     }
   }
 
