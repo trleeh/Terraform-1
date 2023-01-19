@@ -3,7 +3,7 @@ terraform {
     organization = "cheturi"
 
     workspaces {
-      name = "Terraform-1"
+      name = "Terraform_work"
     }
   }
 
