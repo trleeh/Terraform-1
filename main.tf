@@ -24,6 +24,6 @@ resource "aws_instance" "ubuntu" {
 
   tags = {
     Name = var.instance_name
-    Project="test123"
+    Project="test1234"
   }
 }
